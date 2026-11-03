@@ -1,0 +1,980 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "MD-01",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Benda mana yang menghasilkan cahaya sendiri?",
+      "options": [
+        "Lampu menyala",
+        "Buku",
+        "Cermin"
+      ],
+      "answer": 0,
+      "explanation": "Lampu yang menyala merupakan sumber cahaya. Buku dan cermin hanya memantulkan cahaya yang diterimanya."
+    },
+    {
+      "id": "MD-02",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Mengapa kita dapat melihat buku saat ruangan terang?",
+      "options": [
+        "Cahaya dari buku masuk ke mata",
+        "Mata mengirim cahaya ke buku",
+        "Buku selalu menghasilkan cahaya"
+      ],
+      "answer": 0,
+      "explanation": "Cahaya sumber mengenai buku, dipantulkan, lalu masuk ke mata."
+    },
+    {
+      "id": "MD-03",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Dalam udara yang seragam, berkas cahaya senter merambat ...",
+      "options": [
+        "Lurus",
+        "Selalu melingkar",
+        "Selalu zig-zag"
+      ],
+      "answer": 0,
+      "explanation": "Dalam medium yang seragam, cahaya merambat lurus."
+    },
+    {
+      "id": "MD-04",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Bahan mana paling mudah ditembus cahaya sehingga benda di belakangnya terlihat jelas?",
+      "options": [
+        "Kaca bening",
+        "Papan kayu",
+        "Karton tebal"
+      ],
+      "answer": 0,
+      "explanation": "Kaca bening bersifat transparan. Cahaya dapat melewatinya sehingga benda di belakang tampak jelas."
+    },
+    {
+      "id": "MD-05",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Mengapa karton yang disinari senter membentuk bayangan?",
+      "options": [
+        "Karton menghalangi cahaya",
+        "Karton membuat cahaya baru",
+        "Karton menarik udara"
+      ],
+      "answer": 0,
+      "explanation": "Karton tidak tembus cahaya. Daerah di belakangnya menerima lebih sedikit cahaya."
+    },
+    {
+      "id": "MD-06",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Peristiwa pada cermin saat cahaya mengenainya disebut ...",
+      "options": [
+        "Pemantulan",
+        "Penguapan",
+        "Pembekuan"
+      ],
+      "answer": 0,
+      "explanation": "Cermin memantulkan cahaya. Permukaannya yang rata menghasilkan pantulan teratur."
+    },
+    {
+      "id": "MD-07",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Sedotan tampak bengkok di batas air dan udara karena ...",
+      "options": [
+        "Pembiasan cahaya",
+        "Sedotan selalu patah",
+        "Air menghasilkan sedotan baru"
+      ],
+      "answer": 0,
+      "explanation": "Arah cahaya dapat berubah ketika melewati batas dua medium berbeda. Peristiwa ini disebut pembiasan."
+    },
+    {
+      "id": "MD-08",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Apa yang sebaiknya dilakukan saat mencoba senter?",
+      "options": [
+        "Arahkan ke benda, bukan mata",
+        "Tatap lampunya dari dekat",
+        "Arahkan ke mata teman"
+      ],
+      "answer": 0,
+      "explanation": "Amati cahaya pada benda atau layar. Hindari menyorot mata sendiri maupun orang lain."
+    },
+    {
+      "id": "MD-09",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Contoh sumber cahaya alami adalah ...",
+      "options": [
+        "Matahari",
+        "Cermin",
+        "Meja"
+      ],
+      "answer": 0,
+      "explanation": "Matahari menghasilkan cahaya sendiri. Jangan menatap Matahari langsung."
+    },
+    {
+      "id": "MD-10",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Kertas minyak meloloskan sebagian cahaya, tetapi gambar di belakangnya tidak jelas. Bahan ini ...",
+      "options": [
+        "Tembus cahaya sebagian",
+        "Sepenuhnya transparan",
+        "Selalu tidak tembus cahaya"
+      ],
+      "answer": 0,
+      "explanation": "Bahan translusen meloloskan dan menyebarkan sebagian cahaya sehingga detail benda tidak terlihat jelas."
+    },
+    {
+      "id": "MD-11",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Saat lampu senter dimatikan dalam ruangan gelap, bayangan percobaan ...",
+      "options": [
+        "Tidak tampak jelas lagi",
+        "Makin terang sendiri",
+        "Tetap sama terang"
+      ],
+      "answer": 0,
+      "explanation": "Bayangan percobaan bergantung pada cahaya yang terhalang. Tanpa sumber cahaya, perbedaan terang dan gelap sulit terlihat."
+    },
+    {
+      "id": "MD-12",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Alat yang memanfaatkan pemantulan cahaya untuk melihat ke belakang adalah ...",
+      "options": [
+        "Kaca spion",
+        "Termometer",
+        "Jam pasir"
+      ],
+      "answer": 0,
+      "explanation": "Kaca spion memantulkan cahaya dari benda di belakang ke mata pengendara."
+    },
+    {
+      "id": "MD-13",
+      "level": "Mudah",
+      "topic": "cahaya",
+      "question": "Pelangi memperlihatkan bahwa cahaya putih dapat ...",
+      "options": [
+        "Diuraikan menjadi beberapa warna",
+        "Berubah menjadi batu",
+        "Menghilangkan air"
+      ],
+      "answer": 0,
+      "explanation": "Cahaya putih tersusun dari berbagai warna. Tetes air membiaskan, memantulkan, dan menguraikan cahaya Matahari."
+    },
+    {
+      "id": "MD-14",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Gitar menghasilkan bunyi ketika senarnya ...",
+      "options": [
+        "Bergetar setelah dipetik",
+        "Diam tanpa disentuh",
+        "Berubah menjadi cahaya"
+      ],
+      "answer": 0,
+      "explanation": "Petikan membuat senar bergetar. Getaran itu menghasilkan bunyi yang merambat ke pendengar."
+    },
+    {
+      "id": "MD-15",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Saat drum dipukul, bagian yang bergetar untuk menghasilkan bunyi adalah ...",
+      "options": [
+        "Selaput drum",
+        "Bayangan drum",
+        "Warna cat drum"
+      ],
+      "answer": 0,
+      "explanation": "Selaput yang dipukul bergerak bolak-balik. Getaran selaput menjadi sumber bunyi drum."
+    },
+    {
+      "id": "MD-16",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Bunyi bel sekolah sampai ke telinga melalui ...",
+      "options": [
+        "Udara di sekitarnya",
+        "Cahaya bel",
+        "Bayangan bel"
+      ],
+      "answer": 0,
+      "explanation": "Udara menjadi perantara rambatan bunyi dari bel menuju telinga."
+    },
+    {
+      "id": "MD-17",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Pada telepon gelas dengan tali tegang, bunyi dapat diteruskan melalui ...",
+      "options": [
+        "Tali sebagai benda padat",
+        "Warna gelas",
+        "Bayangan tali"
+      ],
+      "answer": 0,
+      "explanation": "Getaran dasar gelas dapat diteruskan oleh tali yang tegang ke gelas penerima."
+    },
+    {
+      "id": "MD-18",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Selain melalui udara dan benda padat, bunyi juga dapat merambat melalui ...",
+      "options": [
+        "Air sebagai benda cair",
+        "Ruang hampa sempurna",
+        "Bayangan pada dinding"
+      ],
+      "answer": 0,
+      "explanation": "Bunyi memerlukan medium. Zat cair seperti air juga dapat meneruskan getaran bunyi."
+    },
+    {
+      "id": "MD-19",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Di ruang hampa sempurna, bunyi tidak dapat merambat karena ...",
+      "options": [
+        "Tidak ada medium yang meneruskan getaran",
+        "Tidak ada warna terang",
+        "Tidak ada cermin"
+      ],
+      "answer": 0,
+      "explanation": "Bunyi memerlukan materi sebagai perantara. Ruang hampa tidak menyediakan medium itu."
+    },
+    {
+      "id": "MD-20",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Dua sumber bergetar dengan kecepatan berbeda. Sumber yang bergetar lebih cepat menghasilkan nada ...",
+      "options": [
+        "Lebih tinggi",
+        "Pasti lebih keras",
+        "Pasti lebih pelan"
+      ],
+      "answer": 0,
+      "explanation": "Nada tinggi berkaitan dengan lebih banyak getaran setiap detik. Tinggi nada berbeda dari keras bunyi."
+    },
+    {
+      "id": "MD-21",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Drum yang sama dipukul sedikit lebih kuat. Bunyi biasanya terdengar ...",
+      "options": [
+        "Lebih keras",
+        "Pasti lebih tinggi nadanya",
+        "Tanpa getaran"
+      ],
+      "answer": 0,
+      "explanation": "Pukulan lebih kuat biasanya membuat simpangan getaran lebih besar sehingga bunyi lebih keras."
+    },
+    {
+      "id": "MD-22",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Suara teriakan terdengar kembali sesaat setelah mengenai tebing. Peristiwa ini adalah ...",
+      "options": [
+        "Gema akibat pemantulan bunyi",
+        "Pembiasan cahaya",
+        "Benda menghasilkan cahaya"
+      ],
+      "answer": 0,
+      "explanation": "Bunyi dapat dipantulkan. Pantulan yang terdengar terpisah setelah bunyi asli disebut gema."
+    },
+    {
+      "id": "MD-23",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Bahan yang lebih sesuai untuk membantu mengurangi pantulan bunyi di ruang belajar adalah ...",
+      "options": [
+        "Tirai kain tebal",
+        "Dinding keramik licin",
+        "Lembaran logam keras"
+      ],
+      "answer": 0,
+      "explanation": "Bahan lunak berpori seperti kain tebal menyerap sebagian energi bunyi sehingga pantulan dapat berkurang."
+    },
+    {
+      "id": "MD-24",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Saat bernyanyi pelan sambil menyentuh leher dengan lembut, kita dapat merasakan ...",
+      "options": [
+        "Getaran saat suara dihasilkan",
+        "Cahaya keluar dari leher",
+        "Bunyi tidak melibatkan getaran"
+      ],
+      "answer": 0,
+      "explanation": "Suara manusia dihasilkan oleh getaran pita suara. Sentuhan lembut di leher dapat membantu merasakan getarannya."
+    },
+    {
+      "id": "MD-25",
+      "level": "Mudah",
+      "topic": "bunyi",
+      "question": "Dalam percobaan bunyi di kelas, tindakan yang tepat adalah ...",
+      "options": [
+        "Gunakan volume nyaman dan jangan berteriak dekat telinga",
+        "Tempelkan sumber bunyi keras ke telinga",
+        "Terus naikkan volume sampai terasa sakit"
+      ],
+      "answer": 0,
+      "explanation": "Bunyi keras dapat mengganggu dan merusak pendengaran. Gunakan bunyi secukupnya untuk diamati."
+    },
+    {
+      "id": "SD-01",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Tiga karton berlubang diletakkan sejajar dengan senter. Cahaya lolos. Saat karton tengah digeser, cahaya terhalang. Kesimpulannya?",
+      "options": [
+        "Cahaya merambat lurus",
+        "Cahaya selalu mengitari karton",
+        "Karton menghasilkan cahaya"
+      ],
+      "answer": 0,
+      "explanation": "Lubang yang segaris menyediakan jalur lurus. Pergeseran karton menutup jalur itu."
+    },
+    {
+      "id": "SD-02",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Senter dan layar tetap. Benda digeser mendekati senter. Bayangan pada layar cenderung ...",
+      "options": [
+        "Membesar",
+        "Mengecil selalu",
+        "Hilang karena benda berubah bening"
+      ],
+      "answer": 0,
+      "explanation": "Berkas menyebar dari sumber. Benda yang lebih dekat sumber menutupi bagian berkas yang lebih lebar menuju layar."
+    },
+    {
+      "id": "SD-03",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Mengapa cermin lebih cocok untuk melihat wajah dibanding dinding kasar?",
+      "options": [
+        "Permukaan rata memberi pantulan teratur",
+        "Dinding tidak memantulkan cahaya sama sekali",
+        "Cermin mengeluarkan wajah baru"
+      ],
+      "answer": 0,
+      "explanation": "Dinding juga memantulkan cahaya, tetapi permukaan kasar menyebarkannya sehingga tidak membentuk bayangan wajah yang jelas."
+    },
+    {
+      "id": "SD-04",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Rina ingin cahaya masuk, tetapi orang di luar tidak melihat detail ruangan. Pilih ...",
+      "options": [
+        "Kaca buram",
+        "Kaca bening tanpa tirai",
+        "Papan kayu tebal"
+      ],
+      "answer": 0,
+      "explanation": "Kaca buram meneruskan sekaligus menyebarkan cahaya, sehingga detail di baliknya sulit dilihat."
+    },
+    {
+      "id": "SD-05",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Pensil tampak bergeser saat sebagian dimasukkan ke air. Cara mengecek apakah pensil benar-benar bengkok?",
+      "options": [
+        "Angkat dan amati pensil di udara",
+        "Tambahkan pewarna saja",
+        "Matikan semua lampu"
+      ],
+      "answer": 0,
+      "explanation": "Pensil yang tetap lurus saat diangkat menunjukkan bahwa tampilan di air dipengaruhi perjalanan cahaya, bukan perubahan bentuk pensil."
+    },
+    {
+      "id": "SD-06",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Periskop sederhana memakai dua cermin miring. Fungsi keduanya adalah ...",
+      "options": [
+        "Membelokkan jalur cahaya lewat pemantulan",
+        "Menciptakan cahaya tanpa sumber",
+        "Mengubah cahaya menjadi suara"
+      ],
+      "answer": 0,
+      "explanation": "Dua cermin mengarahkan cahaya dari benda ke mata melalui dua pemantulan."
+    },
+    {
+      "id": "SD-07",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Mengapa reflektor sepeda tampak terang ketika disinari lampu kendaraan?",
+      "options": [
+        "Memantulkan cahaya lampu",
+        "Menyimpan Matahari selamanya",
+        "Menghasilkan listrik tanpa alat"
+      ],
+      "answer": 0,
+      "explanation": "Reflektor mengembalikan banyak cahaya ke arah sumber. Reflektor bukan lampu yang menghasilkan cahaya sendiri."
+    },
+    {
+      "id": "SD-08",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Menguji bahan paling tembus cahaya: apa yang harus dibuat sama?",
+      "options": [
+        "Senter dan jarak pengujian",
+        "Warna nama kelompok",
+        "Jumlah teman yang menonton"
+      ],
+      "answer": 0,
+      "explanation": "Perbandingan adil memakai sumber cahaya, jarak, dan kondisi sekitar yang sama; bahan yang diuji menjadi variabel berbeda."
+    },
+    {
+      "id": "SD-09",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Prisma disinari cahaya putih dan menghasilkan pita warna. Peristiwa utamanya ...",
+      "options": [
+        "Penguraian cahaya putih",
+        "Pembentukan air",
+        "Pemadaman semua warna"
+      ],
+      "answer": 0,
+      "explanation": "Warna-warna dibiaskan dengan besar berbeda sehingga cahaya putih terurai."
+    },
+    {
+      "id": "SD-10",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Bayangan pohon berubah arah dari pagi ke sore. Penyebab utamanya ...",
+      "options": [
+        "Arah datang cahaya Matahari berubah",
+        "Pohon selalu berjalan",
+        "Tanah menghasilkan cahaya"
+      ],
+      "answer": 0,
+      "explanation": "Posisi tampak Matahari berubah sepanjang hari, sehingga arah penyinaran dan arah bayangan berubah."
+    },
+    {
+      "id": "SD-11",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Saat melihat ikan dari atas, letak ikan tampak lebih dangkal. Penyebabnya ...",
+      "options": [
+        "Pembiasan cahaya dari air ke udara",
+        "Ikan pasti melayang di udara",
+        "Mata memancarkan gelombang air"
+      ],
+      "answer": 0,
+      "explanation": "Cahaya dari ikan berubah arah saat keluar dari air. Letak tampak dapat berbeda dari letak sebenarnya."
+    },
+    {
+      "id": "SD-12",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Sebuah lampu tetap menyala tetapi ditutup karton tebal. Mengapa sisi di belakang karton gelap?",
+      "options": [
+        "Cahaya langsung lampu terhalang",
+        "Lampu pasti kehilangan listrik",
+        "Karton menyerap seluruh udara"
+      ],
+      "answer": 0,
+      "explanation": "Benda tidak tembus cahaya menghalangi jalur cahaya langsung. Ini berbeda dengan mematikan sumber."
+    },
+    {
+      "id": "SD-13",
+      "level": "Sedang",
+      "topic": "cahaya",
+      "question": "Mengapa dua senter dari arah berbeda dapat membuat dua bayangan sebuah benda?",
+      "options": [
+        "Masing-masing sumber memiliki jalur yang terhalang",
+        "Benda tiba-tiba menjadi dua",
+        "Satu senter selalu rusak"
+      ],
+      "answer": 0,
+      "explanation": "Setiap sumber dapat membentuk daerah bayangan sendiri, bergantung pada arah dan posisi sumber."
+    },
+    {
+      "id": "SD-14",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Pada penggaris lentur yang dijepit di tepi meja, bagian bebas dipendekkan lalu dipetik dengan cara sama. Nadanya cenderung ...",
+      "options": [
+        "Lebih tinggi",
+        "Lebih rendah",
+        "Selalu hilang"
+      ],
+      "answer": 0,
+      "explanation": "Bagian bebas yang lebih pendek cenderung bergetar lebih cepat, sehingga nada menjadi lebih tinggi. Bahan dan cara menjepit dibuat sama."
+    },
+    {
+      "id": "SD-15",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Senar yang sama dikencangkan, dengan panjang bagian bergetar tetap. Saat dipetik, nadanya cenderung ...",
+      "options": [
+        "Lebih tinggi",
+        "Lebih rendah",
+        "Tidak mungkin berubah"
+      ],
+      "answer": 0,
+      "explanation": "Tegangan yang lebih besar pada senar yang sama cenderung meningkatkan frekuensi getaran. Nada pun meningkat."
+    },
+    {
+      "id": "SD-16",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Telepon gelas terdengar jelas saat talinya tegang, tetapi lemah ketika kendur. Penjelasannya ...",
+      "options": [
+        "Tali tegang lebih baik meneruskan getaran pada susunan itu",
+        "Tali kendur mengubah bunyi menjadi cahaya",
+        "Warna tali menjadi sumber bunyi"
+      ],
+      "answer": 0,
+      "explanation": "Ketegangan membantu getaran berpindah dari satu dasar gelas ke gelas lain. Tali kendur dapat mengurangi penerusannya."
+    },
+    {
+      "id": "SD-17",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Mengapa bel masih dapat terdengar dari balik pintu meskipun bel tidak terlihat?",
+      "options": [
+        "Sebagian bunyi mencapai pendengar melalui celah atau bahan pintu",
+        "Bunyi hanya bisa lewat jika sumber terlihat",
+        "Mata meneruskan bunyi dari bel"
+      ],
+      "answer": 0,
+      "explanation": "Bunyi tidak harus memiliki jalur pandang langsung. Getaran dapat sampai lewat celah, jalur sekitar, atau bahan penghalang."
+    },
+    {
+      "id": "SD-18",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Lampu kilat petir tampak sebelum guntur terdengar dari peristiwa yang sama karena ...",
+      "options": [
+        "Cahaya merambat jauh lebih cepat daripada bunyi di udara",
+        "Guntur selalu terjadi beberapa menit setelah kilat",
+        "Cahaya harus menunggu bunyi"
+      ],
+      "answer": 0,
+      "explanation": "Cahaya mencapai pengamat lebih dahulu. Bunyi guntur memerlukan waktu lebih lama untuk menempuh jarak yang sama."
+    },
+    {
+      "id": "SD-19",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Aula kosong terasa lebih bergema daripada aula bertirai dan berkarpet. Mengapa?",
+      "options": [
+        "Permukaan keras memantulkan lebih banyak bunyi, sementara kain menyerap sebagian",
+        "Tirai membuat bunyi tidak memerlukan udara",
+        "Karpet selalu menaikkan nada suara"
+      ],
+      "answer": 0,
+      "explanation": "Permukaan keras dapat menghasilkan pantulan kuat. Bahan lunak dapat mengurangi energi bunyi yang kembali ke pendengar."
+    },
+    {
+      "id": "SD-20",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Siswa membandingkan bahan peredam bunyi. Apa yang perlu dibuat sama agar perbandingan adil?",
+      "options": [
+        "Sumber, volume, jarak, dan ketebalan bahan",
+        "Nama kelompok saja",
+        "Bahan harus selalu sama"
+      ],
+      "answer": 0,
+      "explanation": "Jenis bahan menjadi hal yang diubah. Kondisi sumber, posisi pengukur, dan ketebalan dijaga sama agar hasil dapat dibandingkan."
+    },
+    {
+      "id": "SD-21",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Dua nada memiliki jumlah getaran per detik sama, tetapi simpangan getar A lebih besar. Jika kondisi dengar sama, bunyi A cenderung ...",
+      "options": [
+        "Lebih keras, dengan tinggi nada sama",
+        "Lebih tinggi, dengan keras bunyi pasti sama",
+        "Lebih rendah, tanpa getaran"
+      ],
+      "answer": 0,
+      "explanation": "Frekuensi yang sama berarti tinggi nada sama. Simpangan yang lebih besar berkaitan dengan bunyi yang lebih kuat."
+    },
+    {
+      "id": "SD-22",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Di tempat terbuka yang tenang, sumber tetap berbunyi sama. Pendengar bergerak menjauh. Bunyi biasanya ...",
+      "options": [
+        "Terdengar lebih lemah",
+        "Selalu makin keras",
+        "Berubah menjadi cahaya"
+      ],
+      "answer": 0,
+      "explanation": "Energi bunyi menyebar selama merambat. Pada kondisi yang sebanding, bunyi umumnya lebih lemah di tempat yang lebih jauh."
+    },
+    {
+      "id": "SD-23",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Bunyi pantul di aula bercampur dengan suara asli sehingga ucapan kurang jelas. Ini disebut ...",
+      "options": [
+        "Gaung",
+        "Bayangan cahaya",
+        "Gema yang terpisah jelas"
+      ],
+      "answer": 0,
+      "explanation": "Gaung adalah bunyi pantul yang berbaur dengan bunyi asli. Gema terdengar lebih terpisah setelah bunyi asli."
+    },
+    {
+      "id": "SD-24",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Ketika senar yang sedang berbunyi disentuh hingga getarannya berhenti, bunyinya ...",
+      "options": [
+        "Melemah lalu berhenti",
+        "Terus berbunyi sama tanpa getaran",
+        "Selalu bertambah keras"
+      ],
+      "answer": 0,
+      "explanation": "Sentuhan meredam getaran senar. Ketika sumber berhenti bergetar, bunyi dari sumber tersebut berhenti dihasilkan."
+    },
+    {
+      "id": "SD-25",
+      "level": "Sedang",
+      "topic": "bunyi",
+      "question": "Bel listrik tetap bergetar di tabung bening, tetapi suaranya makin lemah saat udara dikeluarkan. Bukti ini mendukung bahwa ...",
+      "options": [
+        "Bunyi membutuhkan medium untuk merambat",
+        "Bel hanya berbunyi jika dilihat",
+        "Cahaya dan bunyi sama-sama memerlukan udara"
+      ],
+      "answer": 0,
+      "explanation": "Berkurangnya udara mengurangi perambatan bunyi melalui udara. Cahaya masih dapat melewati tabung dan ruang yang udaranya dikurangi."
+    },
+    {
+      "id": "SL-01",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Dua kelompok menguji bayangan. A mengubah jarak benda saja; B mengubah jarak benda dan senter sekaligus. Data mana lebih baik untuk mencari pengaruh jarak benda?",
+      "options": [
+        "Kelompok A",
+        "Kelompok B",
+        "Keduanya pasti sama"
+      ],
+      "answer": 0,
+      "explanation": "Mengubah satu variabel membantu menghubungkan perubahan bayangan dengan jarak benda. Dua perubahan sekaligus menyulitkan penjelasan."
+    },
+    {
+      "id": "SL-02",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Cahaya senter gagal melewati tiga lubang. Setelah semua lubang dibuat segaris, cahaya lolos. Bukti ini paling mendukung ...",
+      "options": [
+        "Cahaya menempuh jalur lurus pada susunan ini",
+        "Cahaya hanya ada jika dilihat",
+        "Semua bahan tembus cahaya"
+      ],
+      "answer": 0,
+      "explanation": "Hasil ini mendukung perambatan lurus dalam medium seragam; tidak membuktikan semua bahan dapat dilalui cahaya."
+    },
+    {
+      "id": "SL-03",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Benda tetap, layar tetap. Senter digeser menjauh dari benda. Prediksi ukuran bayangan yang paling tepat ...",
+      "options": [
+        "Cenderung mengecil mendekati ukuran benda",
+        "Membesar tanpa batas",
+        "Pasti hilang total"
+      ],
+      "answer": 0,
+      "explanation": "Sumber yang lebih jauh membuat berkas menuju benda kurang menyebar. Bayangan di layar cenderung mengecil."
+    },
+    {
+      "id": "SL-04",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Siti berkata, “Dinding tidak memantulkan cahaya karena aku tidak melihat wajahku.” Tanggapan terbaik ...",
+      "options": [
+        "Dinding memantulkan secara menyebar sehingga wajah tidak terbentuk jelas",
+        "Benar, hanya cermin memantulkan cahaya",
+        "Dinding selalu sumber cahaya"
+      ],
+      "answer": 0,
+      "explanation": "Kita melihat dinding karena cahaya pantulnya masuk ke mata. Pantulan menyebar tidak menghasilkan bayangan wajah yang jelas."
+    },
+    {
+      "id": "SL-05",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Rancang percobaan membedakan pemantulan dan pembiasan. Pasangan pengamatan paling tepat ...",
+      "options": [
+        "Senter ke cermin; pensil sebagian di air",
+        "Dua pensil kering di meja",
+        "Dua batu dalam kotak gelap"
+      ],
+      "answer": 0,
+      "explanation": "Cermin memperlihatkan pemantulan. Pensil sebagian di air membantu mengamati efek pembiasan pada batas medium."
+    },
+    {
+      "id": "SL-06",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Jendela tampak menyilaukan ketika Matahari mengenai sudut tertentu. Penjelasan masuk akal ...",
+      "options": [
+        "Pantulan cahaya terarah menuju mata",
+        "Jendela membuat Matahari kedua",
+        "Kaca mengubah udara menjadi api"
+      ],
+      "answer": 0,
+      "explanation": "Sebagian cahaya dipantulkan permukaan kaca. Pada arah tertentu pantulan kuat dapat masuk ke mata."
+    },
+    {
+      "id": "SL-07",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Setelah air dituang ke mangkuk, koin yang semula terhalang tepi tampak tanpa posisi kepala berubah. Dugaan yang diuji ...",
+      "options": [
+        "Pembiasan mengubah jalur cahaya dari koin ke mata",
+        "Koin pasti naik sendiri",
+        "Air menghilangkan tepi mangkuk"
+      ],
+      "answer": 0,
+      "explanation": "Pembiasan pada batas air dan udara dapat membuat cahaya dari koin mencapai mata melalui jalur berbeda."
+    },
+    {
+      "id": "SL-08",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Hasil uji: kaca bening menampilkan tulisan jelas, kaca buram hanya meneruskan terang, karton tidak meneruskan terang. Urutan sifatnya ...",
+      "options": [
+        "Transparan, translusen, tidak tembus cahaya",
+        "Tidak tembus, transparan, translusen",
+        "Semua transparan"
+      ],
+      "answer": 0,
+      "explanation": "Klasifikasi memakai dua hal: apakah cahaya lewat dan apakah detail benda di belakang terlihat jelas."
+    },
+    {
+      "id": "SL-09",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Membuktikan penguraian cahaya oleh prisma: hasil mana paling mendukung?",
+      "options": [
+        "Pita berbagai warna pada layar saat diberi cahaya putih",
+        "Bayangan hitam karton saja",
+        "Suhu meja berubah sedikit"
+      ],
+      "answer": 0,
+      "explanation": "Pita warna menunjukkan cahaya putih terpisah menjadi komponen warna. Bayangan hitam hanya menunjukkan penghalangan."
+    },
+    {
+      "id": "SL-10",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Dua lampu menyinari boneka. Satu lampu dimatikan, satu tetap menyala. Prediksi yang wajar ...",
+      "options": [
+        "Pola bayangan berubah dan boneka masih dapat terlihat",
+        "Semua benda pasti tidak terlihat",
+        "Boneka menjadi sumber cahaya"
+      ],
+      "answer": 0,
+      "explanation": "Sumber yang tersisa masih menerangi boneka. Bayangan dari sumber yang dimatikan tidak lagi terbentuk seperti sebelumnya."
+    },
+    {
+      "id": "SL-11",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Siswa ingin menyimpulkan “semua benda bening membiaskan cahaya sama besar”. Ia baru menguji satu gelas air. Kesimpulan itu ...",
+      "options": [
+        "Belum cukup didukung; perlu membandingkan medium",
+        "Sudah pasti benar untuk semua benda",
+        "Benar karena gelas berbentuk bulat"
+      ],
+      "answer": 0,
+      "explanation": "Satu contoh tidak cukup untuk menggeneralisasi semua medium. Pembandingan harus mengendalikan sudut datang dan kondisi percobaan."
+    },
+    {
+      "id": "SL-12",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Cermin periskop pertama benar, tetapi cermin kedua mengarah menjauhi mata. Perbaikan yang paling masuk akal ...",
+      "options": [
+        "Atur cermin kedua agar pantulannya menuju mata",
+        "Tutup semua lubang",
+        "Tambahkan karton di jalur cahaya"
+      ],
+      "answer": 0,
+      "explanation": "Jalur cahaya harus tersambung dari benda, cermin pertama, cermin kedua, lalu mata."
+    },
+    {
+      "id": "SL-13",
+      "level": "Sulit",
+      "topic": "cahaya",
+      "question": "Bayangan percobaan berubah ketika posisi lampu diubah. Data apa paling berguna untuk menjelaskan hasil?",
+      "options": [
+        "Posisi sumber, benda, layar, dan ukuran bayangan",
+        "Nama kelompok saja",
+        "Warna baju pengamat saja"
+      ],
+      "answer": 0,
+      "explanation": "Catatan posisi dan ukuran memungkinkan hubungan geometri sumber, penghalang, dan layar dibandingkan."
+    },
+    {
+      "id": "SL-14",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Rani menguji pengaruh panjang penggaris yang bergetar. Percobaan mana paling adil?",
+      "options": [
+        "Ubah panjang bagian bebas pada penggaris yang sama; cara menjepit dan memetik tetap",
+        "Ganti bahan, panjang, dan cara memetik sekaligus",
+        "Bandingkan penggaris dengan drum berbeda"
+      ],
+      "answer": 0,
+      "explanation": "Mengubah satu faktor membantu menghubungkan perubahan nada dengan panjang bagian bergetar. Faktor lain dibuat serupa."
+    },
+    {
+      "id": "SL-15",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Sumber A bergetar 200 kali per detik, B 400 kali per detik. Simpangan keduanya sama. Kesimpulan yang didukung adalah ...",
+      "options": [
+        "Nada B lebih tinggi daripada A",
+        "B pasti terdengar dua kali lebih keras",
+        "Nada A lebih tinggi daripada B"
+      ],
+      "answer": 0,
+      "explanation": "B mempunyai lebih banyak getaran per detik, sehingga nadanya lebih tinggi. Data frekuensi saja tidak menentukan keras bunyi yang terdengar."
+    },
+    {
+      "id": "SL-16",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Dalam uji peredam yang sama, meter menunjukkan 60 dB tanpa pelapis, 48 dB dengan kain, dan 57 dB dengan karton. Bahan yang paling menurunkan bacaan pada uji ini ...",
+      "options": [
+        "Kain",
+        "Karton",
+        "Keduanya sama"
+      ],
+      "answer": 0,
+      "explanation": "Bacaan 48 dB paling rendah dari ketiga kondisi. Kesimpulan berlaku untuk susunan ini; ketebalan dan pemasangan perlu dicatat."
+    },
+    {
+      "id": "SL-17",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Kelompok A memakai kain tebal dekat bel. B memakai karton tipis jauh dari bel. B terdengar lebih lemah. Dapatkah disimpulkan karton selalu lebih baik meredam?",
+      "options": [
+        "Belum; jarak dan ketebalan juga berubah",
+        "Ya, untuk semua jenis karton",
+        "Ya, jarak tidak memengaruhi bunyi"
+      ],
+      "answer": 0,
+      "explanation": "Beberapa faktor berubah sekaligus. Ulangi dengan sumber, jarak, ketebalan, serta posisi pendengar yang sebanding."
+    },
+    {
+      "id": "SL-18",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Dalam percobaan pantulan, jarak dinding ke sumber dibuat dua kali lebih jauh. Jika medium sama, jeda gema cenderung ...",
+      "options": [
+        "Dua kali lebih lama",
+        "Dua kali lebih singkat",
+        "Selalu sama"
+      ],
+      "answer": 0,
+      "explanation": "Bunyi menempuh perjalanan pergi dan kembali. Jika jarak ke pemantul digandakan, lintasan pulang-pergi juga digandakan."
+    },
+    {
+      "id": "SL-19",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Nina berkata, “Suara tinggi pasti keras.” Cara terbaik mengujinya adalah ...",
+      "options": [
+        "Bandingkan nada tinggi pelan dengan nada rendah keras pada volume nyaman",
+        "Bandingkan dua suara dengan nada dan volume sama saja",
+        "Lihat warna alat tanpa mendengarkannya"
+      ],
+      "answer": 0,
+      "explanation": "Tinggi nada dan keras bunyi merupakan sifat berbeda. Contoh dengan kombinasi berbeda dapat menguji pernyataan Nina."
+    },
+    {
+      "id": "SL-20",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Senar yang sama dipetik lebih kuat, tetapi panjang dan ketegangannya tetap. Prediksi sederhana yang tepat ...",
+      "options": [
+        "Bunyinya lebih keras; nadanya kira-kira tetap",
+        "Nadanya pasti dua kali lebih tinggi",
+        "Bunyinya pasti lebih rendah dan lebih pelan"
+      ],
+      "answer": 0,
+      "explanation": "Petikan lebih kuat terutama memperbesar simpangan getaran. Untuk percobaan sederhana, nada ditentukan terutama oleh sifat dan kondisi senar."
+    },
+    {
+      "id": "SL-21",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Ucapan guru kurang jelas karena banyak pantulan di ruang berdinding keras. Rancangan perbaikan paling tepat ...",
+      "options": [
+        "Tambahkan bahan penyerap yang sesuai, lalu bandingkan kejelasan pada kondisi sama",
+        "Lapisi semua permukaan dengan logam licin",
+        "Naikkan volume setinggi mungkin tanpa pengujian"
+      ],
+      "answer": 0,
+      "explanation": "Penyerapan dapat mengurangi pantulan yang bertumpuk. Pengamatan sebelum dan sesudah membantu memeriksa apakah ucapan menjadi lebih jelas."
+    },
+    {
+      "id": "SL-22",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Telepon gelas tidak terdengar. Tali ternyata menyentuh kaki meja. Langkah pemeriksaan pertama yang masuk akal ...",
+      "options": [
+        "Bebaskan tali dari penghalang dan tegangkan, lalu coba dengan suara sama",
+        "Ganti warna gelas tanpa mengubah tali",
+        "Langsung simpulkan bunyi tidak dapat melewati benda padat"
+      ],
+      "answer": 0,
+      "explanation": "Sentuhan pada benda lain dapat meredam atau mengubah penerusan getaran. Memperbaiki jalur tali menguji penyebab yang terlihat."
+    },
+    {
+      "id": "SL-23",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Siswa melihat bel bergetar melalui tabung hampir hampa, tetapi nyaris tidak mendengarnya. Perbedaan cahaya dan bunyi yang ditunjukkan adalah ...",
+      "options": [
+        "Cahaya dapat merambat tanpa medium, bunyi memerlukan medium",
+        "Keduanya selalu berhenti jika udara berkurang",
+        "Bunyi merambat tanpa medium, cahaya memerlukan udara"
+      ],
+      "answer": 0,
+      "explanation": "Cahaya tetap dapat membawa informasi visual melalui ruang hampa. Bunyi mekanis memerlukan materi untuk meneruskan getaran."
+    },
+    {
+      "id": "SL-24",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Setelah tirai dipasang, bunyi pantul berkurang sekali dalam pengamatan. Supaya kesimpulan lebih kuat, siswa perlu ...",
+      "options": [
+        "Mengulang sebelum dan sesudah dengan sumber serta posisi yang sama",
+        "Mengganti volume setiap pengulangan",
+        "Mencatat warna seragam pendengar saja"
+      ],
+      "answer": 0,
+      "explanation": "Pengulangan pada kondisi sebanding membantu membedakan pengaruh tirai dari perubahan sumber atau posisi."
+    },
+    {
+      "id": "SL-25",
+      "level": "Sulit",
+      "topic": "bunyi",
+      "question": "Pengamat mencatat kilat dan guntur dari tempat aman. Jeda peristiwa kedua lebih panjang. Jika kondisi udara serupa, penjelasan yang mungkin ...",
+      "options": [
+        "Sumber peristiwa kedua lebih jauh",
+        "Cahaya peristiwa kedua berubah menjadi bunyi",
+        "Telinga pasti berhenti bekerja"
+      ],
+      "answer": 0,
+      "explanation": "Bunyi yang menempuh jarak lebih jauh memerlukan waktu lebih lama. Ini perkiraan berdasarkan jeda, bukan alasan untuk mendekati badai."
+    }
+  ]
+}

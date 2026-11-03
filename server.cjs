@@ -1,0 +1,7 @@
+// Server lokal tanpa dependensi. Hanya mendengarkan loopback, bukan jaringan publik.
+const http=require('node:http'),fs=require('node:fs'),path=require('node:path');
+const root=__dirname,port=Number(process.env.PORT)||8765;
+const types={'.html':'text/html; charset=utf-8','.png':'image/png','.json':'application/json; charset=utf-8','.mp3':'audio/mpeg','.md':'text/plain; charset=utf-8'};
+const server=http.createServer((req,res)=>{let target;try{const requested=decodeURIComponent(new URL(req.url,'http://localhost').pathname);target=path.resolve(root,'.'+(requested==='/'?'/index.html':requested));if(target!==root&&!target.startsWith(root+path.sep))throw Error();}catch{res.writeHead(400).end('Permintaan tidak valid');return;}fs.stat(target,(err,s)=>{if(err||!s.isFile()){res.writeHead(404).end('Berkas tidak tersedia');return;}res.writeHead(200,{'Content-Type':types[path.extname(target)]||'application/octet-stream','Content-Length':s.size,'Cache-Control':'no-cache','X-Content-Type-Options':'nosniff'});fs.createReadStream(target).pipe(res);});});
+server.listen(port,'127.0.0.1',()=>{const url=`http://127.0.0.1:${port}`;console.log(`Rimba Sinyal: ${url}\nBiarkan jendela ini terbuka saat bermain. Tekan Ctrl+C untuk berhenti.`);if(process.env.RIMBA_OPEN==='1'&&process.platform==='win32')require('node:child_process').execFile('rundll32.exe',['url.dll,FileProtocolHandler',url],{windowsHide:true},()=>{});});
+server.on('error',e=>{console.error('Server tidak dapat dimulai:',e.message);process.exitCode=1;});

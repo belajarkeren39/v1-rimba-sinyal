@@ -1,0 +1,16 @@
+BERKAS AUDIO OPSIONAL — TIDAK DISERTAKAN
+
+Permainan mempunyai musik dan efek sintetis Web Audio yang berfungsi tanpa MP3.
+Anda boleh menaruh berkas hasil produksi sendiri dengan nama persis:
+
+menu_theme.mp3
+gameplay_theme.mp3
+click.mp3
+correct.mp3
+wrong.mp3
+win.mp3
+lose.mp3
+
+Setiap berkas diperiksa terpisah setelah interaksi. Berkas hilang, rusak, atau
+gagal dimainkan menggunakan bunyi sintetis untuk cue terkait. Tidak ada unduhan
+audio otomatis. Prompt produksi ada di ACUAN-ASET-DAN-PROMPT.md.

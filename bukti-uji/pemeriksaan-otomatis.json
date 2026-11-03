@@ -1,0 +1,138 @@
+{
+  "version": "1.1.0",
+  "passed": 30,
+  "total": 30,
+  "note": "Pengujian otomatis memakai simulasi DOM, kamera, dan audio; bukan webcam atau dua orang nyata.",
+  "unit": {
+    "passed": 17,
+    "total": 17,
+    "results": [
+      {
+        "name": "Bank 75 soal, 25 per tingkat, ID dan isi unik",
+        "status": "lulus"
+      },
+      {
+        "name": "Kuota salah, kunci salah, opsi ganda, soal ganda, dan ID ganda ditolak",
+        "status": "lulus"
+      },
+      {
+        "name": "Semua topik/tingkat: enam soal dan kunci benar setelah pengacakan",
+        "status": "lulus"
+      },
+      {
+        "name": "Seed sama menghasilkan urutan soal, opsi, dan sinyal identik",
+        "status": "lulus"
+      },
+      {
+        "name": "Simulasi logika sesi penuh solo",
+        "status": "lulus"
+      },
+      {
+        "name": "Simulasi logika sesi penuh duel",
+        "status": "lulus"
+      },
+      {
+        "name": "Simulasi logika sesi penuh coop",
+        "status": "lulus"
+      },
+      {
+        "name": "Simulasi logika sesi penuh relay",
+        "status": "lulus"
+      },
+      {
+        "name": "Dua jawaban pada frame sama diproses independen",
+        "status": "lulus"
+      },
+      {
+        "name": "P1 menjawab, selesai, atau cooldown tidak mengubah P2",
+        "status": "lulus"
+      },
+      {
+        "name": "Jawaban dinilai sekali",
+        "status": "lulus"
+      },
+      {
+        "name": "Fase baca dan pembahasan membekukan waktu",
+        "status": "lulus"
+      },
+      {
+        "name": "Peralihan aman, toleransi 0,28 detik dan cooldown bekerja",
+        "status": "lulus"
+      },
+      {
+        "name": "Skor nonnegatif dan hasil ronde dicatat sekali",
+        "status": "lulus"
+      },
+      {
+        "name": "Storage ditolak memakai nilai cadangan",
+        "status": "lulus"
+      },
+      {
+        "name": "PNG nyata dan dimensinya layak; lentera memiliki kanal alpha",
+        "status": "lulus"
+      },
+      {
+        "name": "Bank inline, tanpa CDN, fetch, atau perekam video",
+        "status": "lulus"
+      }
+    ]
+  },
+  "integration": {
+    "passed": 13,
+    "total": 13,
+    "results": [
+      {
+        "name": "Integrasi state lengkap solo dari prepare sampai hasil",
+        "status": "lulus"
+      },
+      {
+        "name": "Integrasi state lengkap duel dari prepare sampai hasil",
+        "status": "lulus"
+      },
+      {
+        "name": "Integrasi state lengkap coop dari prepare sampai hasil",
+        "status": "lulus"
+      },
+      {
+        "name": "Integrasi state lengkap relay dari prepare sampai hasil",
+        "status": "lulus"
+      },
+      {
+        "name": "Dua pointer terpisah; cancel P1 mempertahankan P2",
+        "status": "lulus"
+      },
+      {
+        "name": "Jeda membekukan dua pemain dan COM; restart bersih",
+        "status": "lulus"
+      },
+      {
+        "name": "COM tidak dipengaruhi pilihan benar/salah manusia",
+        "status": "lulus"
+      },
+      {
+        "name": "Impor JSON rusak/invalid mempertahankan bank lama; valid diterima",
+        "status": "lulus"
+      },
+      {
+        "name": "Kamera ditolak menampilkan pilihan tombol tanpa mulai timer",
+        "status": "lulus"
+      },
+      {
+        "name": "Frame differencing dua ROI serentak, cahaya buruk, mirror, dan bingkai beku",
+        "status": "lulus"
+      },
+      {
+        "name": "Audio hilang/timeout memakai sintetis; hanya satu penjadwal",
+        "status": "lulus"
+      },
+      {
+        "name": "Audio parsial: file siap dipakai; play ditolak fallback; respons terlambat tidak menggandakan",
+        "status": "lulus"
+      },
+      {
+        "name": "Preferensi audio null tidak menghentikan aplikasi",
+        "status": "lulus"
+      }
+    ]
+  }
+}

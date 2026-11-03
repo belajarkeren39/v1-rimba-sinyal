@@ -1,0 +1,132 @@
+[
+  {
+    "fits": true,
+    "frame": {
+      "bottom": 1080.0001220703125,
+      "height": 1080.0001220703125,
+      "right": 1920,
+      "width": 1920,
+      "x": 0,
+      "y": 0
+    },
+    "ratio": 1.7777775768390145,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "zones": [
+      {
+        "cardScroll": 0,
+        "overlap": false
+      },
+      {
+        "cardScroll": 0,
+        "overlap": false
+      }
+    ]
+  },
+  {
+    "fits": true,
+    "frame": {
+      "bottom": 672,
+      "height": 576,
+      "right": 1024,
+      "width": 1024,
+      "x": 0,
+      "y": 96
+    },
+    "ratio": 1.7777777777777777,
+    "viewport": [
+      1024,
+      768
+    ],
+    "zones": [
+      {
+        "cardScroll": 0,
+        "overlap": false
+      },
+      {
+        "cardScroll": 0,
+        "overlap": false
+      }
+    ]
+  },
+  {
+    "fits": true,
+    "frame": {
+      "bottom": 531.6875,
+      "height": 219.375,
+      "right": 390,
+      "width": 390,
+      "x": 0,
+      "y": 312.3125
+    },
+    "ratio": 1.7777777777777777,
+    "viewport": [
+      390,
+      844
+    ],
+    "zones": [
+      {
+        "cardScroll": 0,
+        "overlap": false
+      },
+      {
+        "cardScroll": 0,
+        "overlap": false
+      }
+    ]
+  },
+  {
+    "fits": true,
+    "frame": {
+      "bottom": 390,
+      "height": 390,
+      "right": 768.6667098999023,
+      "width": 693.3333740234375,
+      "x": 75.33333587646484,
+      "y": 0
+    },
+    "ratio": 1.777777882111378,
+    "viewport": [
+      844,
+      390
+    ],
+    "zones": [
+      {
+        "cardScroll": 0,
+        "overlap": false
+      },
+      {
+        "cardScroll": 0,
+        "overlap": false
+      }
+    ]
+  },
+  {
+    "fits": true,
+    "frame": {
+      "bottom": 768,
+      "height": 768,
+      "right": 1365.666707366705,
+      "width": 1365.3333740234375,
+      "x": 0.3333333432674408,
+      "y": 0
+    },
+    "ratio": 1.7777778307596843,
+    "viewport": [
+      1366,
+      768
+    ],
+    "zones": [
+      {
+        "cardScroll": 0,
+        "overlap": false
+      },
+      {
+        "cardScroll": 0,
+        "overlap": false
+      }
+    ]
+  }
+]

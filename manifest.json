@@ -1,0 +1,139 @@
+{
+  "name": "Rimba Sinyal",
+  "version": "1.1.0",
+  "language": "id",
+  "entry": "index.html",
+  "questionBank": {
+    "inline": true,
+    "total": 75,
+    "perDifficulty": 25,
+    "sessionLength": 6,
+    "backup": "bank-soal.json",
+    "topics": {
+      "cahaya": 39,
+      "bunyi": 36
+    },
+    "storageKey": "rimba.bank.cahaya-bunyi.v2"
+  },
+  "images": [
+    {
+      "path": "asset/cover_bg.png",
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "required": true,
+      "created": true
+    },
+    {
+      "path": "asset/lentera.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "required": true,
+      "created": true
+    }
+  ],
+  "optionalAudio": [
+    {
+      "cue": "menu_theme",
+      "path": "asset/audio/menu_theme.mp3",
+      "required": false,
+      "created": false,
+      "syntheticFallback": true
+    },
+    {
+      "cue": "gameplay_theme",
+      "path": "asset/audio/gameplay_theme.mp3",
+      "required": false,
+      "created": false,
+      "syntheticFallback": true
+    },
+    {
+      "cue": "click",
+      "path": "asset/audio/click.mp3",
+      "required": false,
+      "created": false,
+      "syntheticFallback": true
+    },
+    {
+      "cue": "correct",
+      "path": "asset/audio/correct.mp3",
+      "required": false,
+      "created": false,
+      "syntheticFallback": true
+    },
+    {
+      "cue": "wrong",
+      "path": "asset/audio/wrong.mp3",
+      "required": false,
+      "created": false,
+      "syntheticFallback": true
+    },
+    {
+      "cue": "win",
+      "path": "asset/audio/win.mp3",
+      "required": false,
+      "created": false,
+      "syntheticFallback": true
+    },
+    {
+      "cue": "lose",
+      "path": "asset/audio/lose.mp3",
+      "required": false,
+      "created": false,
+      "syntheticFallback": true
+    }
+  ],
+  "camera": {
+    "detector": "frame-differencing-per-roi",
+    "version": "1.0.0",
+    "runtime": "Browser Canvas 2D / getUserMedia",
+    "analysisSize": [
+      192,
+      108
+    ],
+    "localProcessing": true,
+    "recording": false,
+    "upload": false,
+    "externalModels": [],
+    "cdn": [],
+    "streamCount": 1
+  },
+  "runtimeDependencies": [],
+  "localServer": {
+    "file": "server.cjs",
+    "engine": "Node.js",
+    "packageDependencies": [],
+    "bind": "127.0.0.1",
+    "port": 8765
+  },
+  "sources": [
+    {
+      "title": "NASA — Wave Behaviors",
+      "url": "https://science.nasa.gov/ems/03_behaviors/"
+    },
+    {
+      "title": "MDN — getUserMedia",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia"
+    },
+    {
+      "title": "NASA — Anatomy of an Electromagnetic Wave",
+      "url": "https://science.nasa.gov/ems/02_anatomy/"
+    },
+    {
+      "title": "NPS — Understanding Sound",
+      "url": "https://home.nps.gov/subjects/sound/understandingsound.htm"
+    },
+    {
+      "title": "NIDCD — How is Sound Measured?",
+      "url": "https://www.nidcd.nih.gov/health/how-sound-measured"
+    }
+  ],
+  "layout": {
+    "aspectRatio": "16:9",
+    "logicalWidth": 1600,
+    "logicalHeight": 900,
+    "uniformScale": true,
+    "portraitReflow": false
+  }
+}
